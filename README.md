@@ -33,7 +33,7 @@ Jalankan script:
 $ git clone https://github.com/spyschools/yt-downloader.git
 $ cd yt-downloader
 $ chmod +x *
-$ python yt-downloader.py
+$ python3 yt-downloader.py
 ```
 
 Ikuti instruksi di terminal:
